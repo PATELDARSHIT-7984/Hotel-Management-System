@@ -1,3 +1,14 @@
+# DS-DBMS Java Project - Semester 2
+
+## Overview
+Java project for Data Structures & Database Management Systems (DS & DBMS) coursework.  
+Implements data structures and database operations with a console-based interface.
+
+## Features
+- CRUD operations with DB (if applicable)
+- Arrays, Linked Lists, Stacks, Queues
+- Console-based interface
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
